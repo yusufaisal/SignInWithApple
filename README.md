@@ -1,4 +1,4 @@
-# SignInWithApple
+# Sign In With Apple
 Simple Implementation of Sign In With Apple ID in your Application
 
 ## Introduction
